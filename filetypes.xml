@@ -1,0 +1,43 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="env" type="Bash" />
+      <mapping pattern="Dockerfile-deployment" type="Dockerfile" />
+      <mapping pattern="service-registry/Dockerfile" type="Dockerfile" />
+      <mapping pattern="images/build-env/Dockerfile" type="Dockerfile" />
+      <mapping pattern="images/build/Dockerfile" type="Dockerfile" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="hogan" type="Handlebars/Mustache" />
+      <mapping pattern="config" type="JavaScript" />
+      <mapping pattern="unight-cli" type="JavaScript" />
+      <mapping pattern="bin/unight-cli" type="JavaScript" />
+      <mapping pattern="tmp_key" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeept" type="PLAIN_TEXT" />
+      <mapping pattern="template" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".editorConfig" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".env-sample" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="deploy/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="Buildfile" type="PLAIN_TEXT" />
+      <mapping pattern="citm-user-api/v1/config" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="java" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="gradle" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="bson" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping pattern=".gitlab-yml" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
