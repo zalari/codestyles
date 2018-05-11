@@ -15,6 +15,7 @@
       <mapping pattern="tmp_key" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern=".skip-component" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeept" type="PLAIN_TEXT" />
       <mapping pattern="template" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
