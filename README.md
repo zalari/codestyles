@@ -1,10 +1,10 @@
-# HOW-TO IMPORT _ZALARI_ CODE STYLES
+# HOW TO IMPORT _ZALARI_ CODE STYLES in IntelliJ IDEs
 
-* move to Webstorm -> Preferences
-* search for 'Code Style'
-* move to Code Style -> JavaScript
-* click on the settings wheel and 'Import Scheme'
+* [download actual code style](https://github.com/zalari/codestyles/raw/master/code-style.xml)
+* click (WebStorm|IntelliJ) -> Preferences
+* search for _Code Style_
+* click on the settings cog and _Import Scheme_ -> _IntelliJ..._ and select the **downloaded** `code-style.xml` and _apply_
 
-![GitHub Logo](import_scheme.png)
+![Import_Screenie](import_scheme.png)
 
 
